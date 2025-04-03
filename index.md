@@ -39,7 +39,7 @@
 ### 📌 软件开发 🖥️
 
 🔹 **⬇️ [图床图片批量下载](https://github.com/zhenyu-jia/ImageBatchDownloader)**（[点击使用](https://zhenyu-jia.github.io/ImageBatchDownloader/)）  
-🔹 **🐍 Python 编程教程**（适用于初学者）  
+🔹 **📡 [串口助手](https://github.com/zhenyu-jia/SerialAssistant)**（[点击使用](https://zhenyu-jia.github.io/SerialAssistant/)）  
 
 ---
 
