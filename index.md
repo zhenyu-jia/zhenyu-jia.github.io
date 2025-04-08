@@ -40,6 +40,7 @@
 
 🔹 **⬇️ [图床图片批量下载](https://github.com/zhenyu-jia/ImageBatchDownloader)**（[点击使用](https://zhenyu-jia.github.io/ImageBatchDownloader/)）  
 🔹 **📡 [串口助手](https://github.com/zhenyu-jia/SerialAssistant)**（[点击使用](https://zhenyu-jia.github.io/SerialAssistant/)）  
+🔹 **📡 [基于摄像头的在线心率测量](https://github.com/zhenyu-jia/HeartRateMeasurement)**（[点击使用](https://zhenyu-jia.github.io/HeartRateMeasurement/)）
 
 ---
 
