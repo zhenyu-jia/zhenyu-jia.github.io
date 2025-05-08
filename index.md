@@ -16,6 +16,9 @@
 ### 📌 嵌入式开发 🛠️  
 
 ✅ **STM32 系列 MCU 开发**  
+
+- [关于 FIFO 的一些细节处理](https://github.com/zhenyu-jia/zhenyu-jia.github.io/blob/main/docs/Embedded/Software/%E5%85%B3%E4%BA%8E%20FIFO%20%E7%9A%84%E4%B8%80%E4%BA%9B%E7%BB%86%E8%8A%82%E5%A4%84%E7%90%86.md)
+
 ✅ **串口通信协议设计**  
 ✅ **ILI9341 显示驱动开发**  
 ✅ **RTOS / 无堆栈协程库**  
